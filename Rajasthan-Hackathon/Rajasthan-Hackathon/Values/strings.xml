@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pro Search</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_flash_cards">FlashCardsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="message1">Message1</string>
+    <string name="todo">TODO</string>
+</resources>
