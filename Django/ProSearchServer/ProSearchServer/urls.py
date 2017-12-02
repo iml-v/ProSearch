@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url,include
 from django.contrib import admin
 
-from Query.views import SeeViewSet
+from Query.views import SeeViewSet,gen_ques
 
 from rest_framework import routers
 
@@ -29,5 +29,6 @@ urlpatterns = [
 	
 	url(r'^', include(router.urls)),
     url(r'^admin/', admin.site.urls),
+    url(r'^ques/', gen_ques.as_view(),name="alpha"),
  
 ]

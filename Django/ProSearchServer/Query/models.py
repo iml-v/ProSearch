@@ -8,7 +8,7 @@ class Questions(models.Model):
     query = models.TextField(default="mama")
 
     def save(self, *args, **kwargs):
-        self.question =  generator()
+        self.question =  generator(self.query)
         
         super(Questions, self).save(*args, **kwargs)
     	
