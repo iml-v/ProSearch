@@ -16,11 +16,18 @@ Including another URLconf
 from django.conf.urls import url,include
 from django.contrib import admin
 
-from Query.views import gen_ques
+from Query.views import SeeViewSet
+
+from rest_framework import routers
+
+admin.autodiscover()
+
+router = routers.DefaultRouter()
+router.register(r'FeedData',SeeViewSet)
 
 urlpatterns = [
+	
+	url(r'^', include(router.urls)),
     url(r'^admin/', admin.site.urls),
-    url(r'^genques/',gen_ques.as_view(), name="genques")
-    
-
+ 
 ]

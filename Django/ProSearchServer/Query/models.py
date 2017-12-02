@@ -1,13 +1,14 @@
 from django.db import models
-#from django.contrib.auth import User
+from .name_generator import generator
+	
+class Questions(models.Model):
+    #qvalue = models.ForeignKey(QueryM,on_delete=models.CASCADE,null=False)
+    question = models.TextField(default="hi")
+    name = models.TextField(default="yo")
+    query = models.TextField(default="mama")
 
-class Query(models.Model):
-	username = models.TextField(max_length=20)
-   	Query = models.TextField(default="This is default query",null=False,max_length=1000)
-    #created = models.DateTimeField(auto_add_now=True)
-    #id = models.AutoField(primary_key=True,)
-
-    	#def __str__(self):
-    	#	return "%&" username
-
+    def save(self, *args, **kwargs):
+        self.question =  generator()
+        
+        super(Questions, self).save(*args, **kwargs)
     	
