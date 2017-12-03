@@ -46,7 +46,7 @@ We are a set of four undergraduates pursuing Electrical Engi. at IIT Roorkee.
 
 **https://github.com/iml-v
 
-**https://github.Satyendra-IITR/ProSearch
+**https://github.com/Satyendra-IITR
 
 **https://github.com/Prabhat-IIT
 
