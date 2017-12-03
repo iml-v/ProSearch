@@ -44,7 +44,8 @@ Detailed description of api along with request and response format is available 
 
 We are a set of four undergraduates pursuing Electrical Engi. at IIT Roorkee.
 
-*https://github.com/iml-v
-*https://github.Satyendra-IITR/ProSearch
-* https://github.com/Prabhat-IIT
-*https://github.com/Dishank-sopho
+**https://github.com/iml-v
+
+**https://github.Satyendra-IITR/ProSearch
+** https://github.com/Prabhat-IIT
+**https://github.com/Dishank-sopho
