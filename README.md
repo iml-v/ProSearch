@@ -42,11 +42,6 @@ Wikitrivia question generation code for quick prototyping has been used for the 
 
 Detailed description of api along with request and response format is available in the [README]
 
-> Android Apk
-
-We have released an apk for the android client. Users can install app in Android phones and can use ProSearch.
->About Us
-
 We are a set of four undergraduates pursuing Electrical Engi. at IIT Roorkee.
 
 * https://Satyendra-IITR/ProSearch
