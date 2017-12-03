@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:13:5-53:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\Mangilal\.android\build-cache\ae3ea09eaf565526d954ec428e9decd55297cf00\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Mangilal\.android\build-cache\5cea953842c2a4d4246c2cdfbc04bdbeaf28b01a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Mangilal\.android\build-cache\29a37ede8d8009ae7b8c75db1d64a3ca79d12534\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Mangilal\.android\build-cache\294a48f26583ab9c4a6e8c81c2ce96718c60ac5a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Mangilal\.android\build-cache\15c4fc9b0415385e3add00cd3687b44ae7fbe7cd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Mangilal\.android\build-cache\55a0b4f59e0c4b51a558b0e287376a83f3681790\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Mangilal\.android\build-cache\232868fa9ed3eb99c8d7b4e2f65f82c23f4f9f5b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Mangilal\.android\build-cache\2e28e02fceccc7925556ef3f0f457a271e8bc93e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Mangilal\.android\build-cache\9d3a39f5fe795ed29368dde151f338bf80c85ada\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Mangilal\.android\build-cache\ab9d6645f1553cd928e8df4ad231efaf5ab403c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Mangilal\.android\build-cache\accfbd737bcbf64f11b4fc67d3a2eeb759fa0bee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.github.gabrielemariotti.cards:library:1.9.1] C:\Users\Mangilal\.android\build-cache\8f2ca458ca5fa94e47f26c75a4169f35decf5647\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Mangilal\.android\build-cache\df1c75a87507ce80d29691ef2a703d7ad39466a2\output\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:18:9-40
+activity#org.imlv_prabhat_satyendra.studentprosearch.MainActivity
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:19:19-47
+activity#org.imlv_prabhat_satyendra.studentprosearch.ReaderActivity
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:21:9-22:59
+	android:theme
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:21:19-49
+activity#org.imlv_prabhat_satyendra.studentprosearch.HomeActivity
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:23:9-41:20
+	android:label
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:25:13-39
+	android:theme
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:30:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:33:13-40:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:36:27-73
+data
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:38:17-55
+	android:mimeType
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:38:23-52
+activity#org.imlv_prabhat_satyendra.studentprosearch.ChatBotActivity
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:44:13-44
+activity#org.imlv_prabhat_satyendra.studentprosearch.FlashCardsActivity
+ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:label
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml:49:13-47
+uses-sdk
+INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\Mangilal\.android\build-cache\ae3ea09eaf565526d954ec428e9decd55297cf00\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Mangilal\.android\build-cache\5cea953842c2a4d4246c2cdfbc04bdbeaf28b01a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Mangilal\.android\build-cache\29a37ede8d8009ae7b8c75db1d64a3ca79d12534\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Mangilal\.android\build-cache\294a48f26583ab9c4a6e8c81c2ce96718c60ac5a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Mangilal\.android\build-cache\48b66d60b4f13edcab6f70bd39d5dce53940438a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Mangilal\.android\build-cache\15c4fc9b0415385e3add00cd3687b44ae7fbe7cd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Mangilal\.android\build-cache\55a0b4f59e0c4b51a558b0e287376a83f3681790\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Mangilal\.android\build-cache\232868fa9ed3eb99c8d7b4e2f65f82c23f4f9f5b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Mangilal\.android\build-cache\2e28e02fceccc7925556ef3f0f457a271e8bc93e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Mangilal\.android\build-cache\9d3a39f5fe795ed29368dde151f338bf80c85ada\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Mangilal\.android\build-cache\ab9d6645f1553cd928e8df4ad231efaf5ab403c0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Mangilal\.android\build-cache\accfbd737bcbf64f11b4fc67d3a2eeb759fa0bee\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.gabrielemariotti.cards:library:1.9.1] C:\Users\Mangilal\.android\build-cache\8f2ca458ca5fa94e47f26c75a4169f35decf5647\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Mangilal\.android\build-cache\df1c75a87507ce80d29691ef2a703d7ad39466a2\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.0] C:\Users\Mangilal\.android\build-cache\3a3df9b32e0714bf8283a3ebecb883d60a40a630\output\AndroidManifest.xml:23:5-25:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Mangilal\.android\build-cache\ae3ea09eaf565526d954ec428e9decd55297cf00\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mangilal\Downloads\Rajasthan-Hackathon\QuestioningReader\app\src\main\AndroidManifest.xml
