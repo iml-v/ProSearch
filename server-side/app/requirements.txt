@@ -9,7 +9,7 @@ instamojo-wrapper==1.1
 nltk==3.2.4
 Pillow==3.4.2
 pytz==2016.10
-requests==2.12.4
+requests==2.20.0
 six==1.10.0
 textblob==0.9.0
 wikipedia==1.4.0
